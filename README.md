@@ -1,2 +1,2 @@
-# Operation_Research_College
-Project undertaken in my BSc in Financial Maths in UL 
+# Financial Maths Modules Projects
+Projects undertaken in my BSc in Financial Maths in UL 
